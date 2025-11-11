@@ -4,6 +4,7 @@ lehuutuyen.com-content/
 ├─ pages/
 │  ├─ home.txt
 │  ├─ about.txt
+│  ├─ my-story.txt
 │  ├─ blog/
 │  │  ├─ index.txt       # danh mục blog
 │  │  ├─ 2025-01-01-post-title.txt
