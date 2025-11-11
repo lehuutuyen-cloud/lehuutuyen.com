@@ -1,7 +1,5 @@
 # lehuutuyen.com
 ## Tài liệu bối cảnh (context.txt) và các file content cho trang lehuutuyen.com.
-# lehuutuyen-content
-
 Mục đích: lưu tất cả nội dung trang lehuutuyen.com để AI/automation đọc nhanh.
 
 ## Cấu trúc
@@ -10,7 +8,7 @@ Mục đích: lưu tất cả nội dung trang lehuutuyen.com để AI/automatio
 - `/meta` : tags, redirects, taxonomy
 
 ## Cách AI truy xuất (hướng dẫn ngắn)
-1. Đọc `index.json` để lấy danh sách file.
+1. Đọc `index.json` và sitemap để lấy danh sách file.
 2. Mở file tương ứng trong `/pages`.
 3. Parse header (dòng trước `---`) để lấy URL/type/tags.
 4. Dùng body làm nguồn nội dung nguyên văn.
