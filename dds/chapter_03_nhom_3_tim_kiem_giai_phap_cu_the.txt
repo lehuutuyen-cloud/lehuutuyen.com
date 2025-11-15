@@ -1,0 +1,42 @@
+TITLE: "Chiết xuất Khảo sát Website - Nhóm 3: Tìm Kiếm Giải Pháp Cụ Thể"
+BOOK: "DDS_20250911_Chủ Đề: Website"
+AUTHOR: "Lê Hữu Tuyền (DDS)"
+URL: "N/A"
+TYPE: #knowledge_extraction
+LAST_UPDATED: 15/11/2025
+TAGS: #website, #khảo_sát, #tìm_kiếm_giải_pháp, #tính_năng, #nền_tảng, #ZMOT
+
+---
+
+### 🧠 Core Mindsets (Tư duy Cốt lõi)
+* Khách hàng chất lượng (high-value) nhận thức rõ giá trị tài sản số của mình và sẵn sàng trả tiền ("gửi học phí") cho một giải pháp chuyên nghiệp để bảo vệ nó (STT 004).
+* Khách hàng tin rằng "budget cao" (20-30tr) và "công ty uy tín" là công thức để đảm bảo chất lượng, họ sẵn sàng trả tiền để "mua" sự an tâm (STT 058).
+* Khách hàng đang ở chế độ "shopping" (mua sắm). Họ có một "shopping list" rõ ràng về ngành nghề (spa, du lịch, local brand) và tính năng (chatbot, 3D).
+
+### 💡 Counter-intuitive Views (Góc nhìn Mới / Phản trực giác)
+* **Cái bẫy của sự "Dễ dàng" (The "Easy" Trap):** Các nền tảng "dễ" như WIX thực chất là một cái lồng. Chúng "dễ" vì chúng *giới hạn* lựa chọn của bạn. Khi bạn cần một chức năng kinh doanh cốt lõi (như cổng thanh toán Việt Nam), bạn sẽ bị "kẹt" (STT 007).
+* **"Tính năng" không phải là "Chiến lược":** Bạn đang yêu cầu "hiệu ứng 3D" (STT 010) và "chatbot AI" (STT 020), nhưng đó chỉ là *chiến thuật*. Chúng là vô nghĩa (hoặc thậm chí làm web chậm đi) nếu không nằm trong một *hệ thống* chiến lược kinh doanh và phễu bán hàng rõ ràng.
+* **Đừng tối ưu "cái cây":** Việc bạn hỏi "dùng .com hay .vn?" (STT 037) hay "hosting bao nhiêu tiền?" (STT 038) cho thấy bạn đang tập trung vào tiểu tiết kỹ thuật, thay vì câu hỏi lớn hơn: "Hệ thống website này phục vụ mục tiêu kinh doanh nào?".
+
+### 🎣 Hooks & Angles (Mồi câu & Góc độ)
+* **Góc độ "Bị Nền tảng Kẹt":** "Tôi dùng WIX và giờ không thể tích hợp cổng thanh toán VN. Làm cách nào đây?" (STT 007).
+* **Góc độ "Bảo vệ Tài sản số":** "Làm sao chống download video trên web? Tôi sẵn sàng trả phí." (STT 004).
+* **Góc độ "Shopping List Cao cấp":** "Cần web Spa, uy tín, budget 20-30 triệu" (STT 058).
+* **Góc độ "Yêu cầu Tính năng Thời thượng":** "Cần web... có hiệu ứng 3d" (STT 010), "Cần web... tính năng chatbot AI" (STT 020).
+* **Góc độ "Tìm kiếm sự Uy tín":** "cần 1 công ty uy tín" (STT 012).
+* **Góc độ "Hỏi về Kỹ thuật Vi mô":** "Nên dùng .com hay .vn cho web bán hàng?" (STT 037).
+
+### 🛠️ Frameworks & Strategies (Mô hình & Chiến lược)
+* **Chiến lược "Thợ Săn Tính Năng" (The Feature Hunter):** Đây là chiến lược *sai lầm* của người mua. Họ tin rằng bằng cách liệt kê một danh sách các tính năng (3D, AI, SEO-ready, bảo mật cao...), họ sẽ nhận được một website hiệu quả.
+* **Hậu quả của "Thợ Săn Tính Năng":** Dẫn đến một "Website Frankenstein" (Frankenstein Website). Đây là một trang web chắp vá bởi nhiều bộ phận/plugin đắt tiền, rời rạc, thường làm chậm tốc độ tải trang và không phục vụ một mục tiêu kinh doanh duy nhất.
+* **"Cái Bẫy Nền Tảng Đóng" (The Platform Trap):** Các nền tảng (WIX, Haravan, Shopify) dụ người dùng vào bằng lời hứa "dễ dàng", nhưng sau đó "bắt làm con tin" bằng cách giới hạn các chức năng cốt lõi (như thanh toán, tùy chỉnh code) hoặc tính phí trên từng thay đổi nhỏ (STT 007, 042).
+
+### 💬 Golden Quotes (Trích dẫn Vàng)
+* "làm cách nào để e có thể thanh toán trực tiếp trên web" (STT 007)
+* "không muốn người dùng tải về... em gửi học phí ạ" (STT 004)
+* "cần 1 công ty uy tín" (STT 012)
+* "có hiệu ứng 3d" (STT 010)
+* "tính năng chatbot AI" (STT 020)
+* "Budget mình khoảng 20-30 tr" (STT 058)
+* "nên dùng đuôi nào là tốt nhất" (STT 037)
+* "Tối ưu SEO chuẩn ngành" (STT 013)
