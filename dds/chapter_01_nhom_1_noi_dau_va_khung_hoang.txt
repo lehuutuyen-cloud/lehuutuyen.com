@@ -1,0 +1,52 @@
+TITLE: "Chiết xuất Khảo sát Website - Nhóm 1: Nỗi Đau & Khủng Hoảng"
+BOOK: "DDS_20250911_Chủ Đề: Website"
+AUTHOR: "Lê Hữu Tuyền (DDS)"
+URL: "N/A"
+TYPE: #knowledge_extraction
+LAST_UPDATED: 15/11/2025
+TAGS: #website, #khảo_sát, #nỗi_đau, #khủng_hoảng, #ZMOT, #phụ_thuộc
+
+---
+
+### 🧠 Core Mindsets (Tư duy Cốt lõi)
+* Bài học xương máu lớn nhất là phải đứng tên chính chủ Tên miền và Hosting (STT 026).
+* Sự phụ thuộc vào một đơn vị bên ngoài (dù họ tốt hay xấu) là một rủi ro chí mạng cho doanh nghiệp (STT 027, 048).
+* "Không rành công nghệ" không phải là một cái cớ, mà là một điểm yếu đang bị người khác lợi dụng (STT 002, 017).
+
+### 💡 Counter-intuitive Views (Góc nhìn Mới / Phản trực giác)
+* Họ (bên làm web) không bán bạn một website; họ bán bạn một **sự phụ thuộc**. Họ *cố tình* không hỗ trợ nếu bạn không dùng hosting của họ, vì hosting chính là "sợi xích" (STT 044).
+* Bạn không cần "một website". Bạn cần "một hệ thống tạo ra kết quả". Một website "làm xong" mà "không thấy hiệu quả gì cả" là một thất bại (STT 061).
+* Sự "ổn định" của website bạn đang phụ thuộc 100% vào sự "ổn định" của công ty thiết kế web. Nếu họ "ngưng hoạt động", bạn lập tức rơi vào khủng hoảng (STT 027).
+* Vấn đề lớn nhất của việc thuê ngoài không phải là chi phí, mà là "chi phí cơ hội". Họ "hẹn lên hẹn xuống" làm "trễ cả 1 dự án của tập thể" (STT 050).
+
+### 🎣 Hooks & Angles (Mồi câu & Góc độ)
+* **Góc độ "Con tin":** Bị từ chối trả lại tên miền và hosting; bị chiếm quyền quản trị (STT 002, 005, 045).
+* **Góc độ "Bị 'Ghost'":** "Bàn giao chưa khô cả mực, giờ vào không được"; "nhắn tin gọi điện cả tháng không trả lời" (STT 048).
+* **Góc độ "Bị Bắt Nạt / Làm Khó":** Bị bắt chạy qua công ty lấy source code bằng... đĩa CD trong khi có thể gửi email (STT 054).
+* **Góc độ "Mệt mỏi":** "thật sự rất mệt mỏi", "vừa mất tiền vừa nặng nề" (STT 002, 026).
+* **Góc độ "Bị Kẹt (The Stuck)":** Web bị lỗi và không biết hỏi ai, không biết làm gì ("bị sao ạ?", "giờ chữa như thế nào?") (STT 001, 003).
+* **Góc độ "Công nghệ Cổ":** Bị kẹt với một website 8 năm tuổi (ASP), liên tục lỗi 503, và bây giờ không biết nên nâng cấp hay làm lại (STT 017).
+* **Góc độ "Vô dụng":** "làm web xong k thấy hiểu quả gì cả", "tại sao website không tìm thấy trên google" (STT 061, 032).
+
+### 🛠️ Frameworks & Strategies (Mô hình & Chiến lược)
+* **Chiến lược của "Kẻ Xấu" (Cách họ thao túng bạn):**
+    1.  **"Vũ khí hóa thuật ngữ" (Weaponized Jargon):** "nói rất dài dòng về chuyên môn rắc rối" để làm khách hàng bối rối và sợ hãi (STT 002).
+    2.  **"Tạo nhà tù khép kín" (Closed Prison):** "không mua hosting của họ thì họ không hỗ trợ" (STT 044).
+    3.  **"Chiếm quyền tuyệt đối":** Tự ý đổi email quản trị, đổi mật khẩu admin, xóa file web (STT 005, 045).
+    4.  **"Thoái thác trách nhiệm":** "bạn thiết kế website cho mình không chịu làm" những việc cơ bản (Analytics, Console) (STT 049).
+    5.  **"Bỏ rơi sau bàn giao":** "gọi điện cả tháng không trả lời" (STT 048).
+    6.  **"Trì hoãn & Hủy kèo":** "hẹn lên hẹn xuống deadline 3-4 lần... cuối cùng huỷ dự án, trả lại tiền" (STT 050).
+
+### 💬 Golden Quotes (Trích dẫn Vàng)
+* "em không biết 1 chút gì về web" (STT 002)
+* "em ngu ngốc ko biết thật" (STT 002)
+* "Do mình ngu nên mình chịu" (STT 045)
+* "em không rành công nghệ" (STT 017)
+* "bị sao ạ?" (STT 001)
+* "Mình nên làm gì ạ?" (STT 006)
+* "thật sự rất mệt mỏi" (STT 002)
+* "kinh nghiệm xương máu" (STT 026)
+* "web như đống rác luôn" (STT 002)
+* "nó thích làm khó vậy đó" (STT 054)
+* "làm web xong... k thấy hiểu quả gì cả" (STT 061)
+* "tại sao website không tìm thấy trên google" (STT 032)
