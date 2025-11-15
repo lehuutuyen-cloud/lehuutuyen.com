@@ -29,7 +29,8 @@ CTA phụ:
 Hoặc tìm hiểu thêm về Lê Hữu Tuyến
 Link: https://lehuutuyen.com/about
 
-(VIDEO PLAYER — không văn bản thêm)
+(VIDEO PLAYER — truy xuất nội dung)
+Script video link: /home-vls
 
 ---
 
