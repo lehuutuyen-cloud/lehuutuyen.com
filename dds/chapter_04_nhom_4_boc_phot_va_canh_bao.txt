@@ -1,0 +1,49 @@
+TITLE: "Chiết xuất Khảo sát Website - Nhóm 4: Bóc Phốt & Cảnh Báo"
+BOOK: "DDS_20250911_Chủ Đề: Website"
+AUTHOR: "Lê Hữu Tuyền (DDS)"
+URL: "N/A"
+TYPE: #knowledge_extraction
+LAST_UPDATED: 15/11/2025
+TAGS: #website, #khảo_sát, #bóc_phốt, #cảnh_báo, #thị_trường, #nina, #haravan
+
+---
+
+### 🧠 Core Mindsets (Tư duy Cốt lõi)
+* **Xung đột Lợi ích Chết người:** Rủi ro lớn nhất không phải là web lỗi, mà là phát hiện ra bên làm web cho bạn cũng chính là **đối thủ cạnh tranh** cùng ngành (STT 026).
+* **Tổn thương Thị trường (Market Trauma):** Sau khi "dính phốt Nina", khách hàng rơi vào trạng thái "hơi rén", hoài nghi tất cả các nhà cung cấp khác, ngay cả khi họ đang cần giải pháp (STT 046).
+* **Không có Lối thoát An toàn (Tư duy của thị trường):** Giá rẻ thì "tiền mất tật mang" (STT 062). Nền tảng (Haravan) thì "đụng gì cũng mất phí" (STT 042). Công ty "uy tín" (Nina) thì "bỏ 30 triệu ra" nhận về "1 đống rác" (STT 039). Thị trường này là một bãi mìn.
+
+### 💡 Counter-intuitive Views (Góc nhìn Mới / Phản trực giác)
+* **Budget cao (30tr) KHÔNG phải là bảo hiểm:** Bạn trả 30 triệu không phải để "mua sự an tâm", mà là để "mua" sự bực bội khi nhận về "1 đống rác" từ một công ty "chỉ chăm chăm chốt đơn" (STT 039).
+* **Bạn không thuê "Agency", bạn thuê "Sinh viên":** Các "công ty" lớn thực chất "thuê những bạn sinh viên... non kinh nghiệm, dễ dụ" để làm dự án cho bạn (STT 040).
+* **Web "1.5tr" là có thật:** Nó được làm bởi những người "xem vài video hướng dẫn... thế là về làm dịch vụ". Vấn đề là khi "bị lỗi code", họ sẽ "ú ớ... chặn số" (STT 062).
+* **Cái bẫy "Nền tảng":** Bạn chọn Haravan vì nghĩ nó "dễ", nhưng thực tế là bạn đang tự chui đầu vào một hệ thống mà "đụng chỉnh cái gì cũng mất phí" (STT 042).
+
+### 🎣 Hooks & Angles (Mồi câu & Góc độ)
+* **Góc độ "Thuê nhầm Đối thủ":** "Phát hiện bên làm web cho mình cũng đang bán cùng ngành với mình" (STT 026).
+* **Góc độ "30 Triệu = Đống Rác":** "Bỏ 30 triệu ra, sản phẩm đưa ra thì không khác gì 1 đống rác" (STT 039).
+* **Góc độ "Điên Máu":** "đụng chỉnh cái gì cũng mất phí. Điên máu thật chứ" (STT 042).
+* **Góc độ "Gà & Lùa Gà":** "Toàn mấy con gà dễ lùa" (STT 040).
+* **Góc độ "Săn mồi":** "Chỉ chăm chăm làm sao chốt được đơn nhưng ko hề tư vấn" (STT 039).
+* **Góc độ "Bóc trần 1.5tr":** "xem vài video... rồi đi chào mời khách với cái giá rẻ mạc" (STT 062).
+
+### 🛠️ Frameworks & Strategies (Mô hình & Chiến lược)
+* **Chiến lược "Kẻ Xấu" (Tổng hợp):**
+    1.  **"Săn mồi & Bỏ rơi" (Nina):** "Chăm chăm chốt đơn", "ko hề tư vấn", "chốt đơn xong rồi thì coi như xong, không còn support" (STT 039).
+    2.  **"Vắt sữa Nền tảng" (Haravan):** Dụ khách hàng vào một nền tảng đóng, sau đó "đụng chỉnh cái gì cũng mất phí" (STT 042).
+    3.  **"Mặt tiền & Hậu trường" (Phương Nam Vina):** Xây dựng hình ảnh "Công ty" nhưng bên trong "thuê... sinh viên non kinh nghiệm" để "bòn rút tiền" (STT 040).
+    4.  **"Giá rẻ YouTube" (Freelancer):** "xem vài video" và dùng "giá rẻ mạc" để câu "gà". Không có khả năng xử lý lỗi (STT 062).
+    5.  **"Xung đột Lợi ích" (Freelancer/Đối thủ):** Cố tình "chèn tên, số điện thoại, link" của mình vào web khách hàng (STT 026).
+
+### 💬 Golden Quotes (Trích dẫn Vàng)
+* "tránh ngay công ty NINA" (STT 039)
+* "sản phẩm đưa ra thì không khác gì 1 đống rác" (STT 039)
+* "bỏ 30 triệu ra" (STT 039)
+* "chốt đơn xong rồi thì coi như xong, không còn support" (STT 039)
+* "Điên máu thật chứ" (STT 042)
+* "đụng chỉnh cái gì cũng mất phí" (STT 042)
+* "Toàn mấy con gà dễ lùa" (STT 040)
+* "tiền mất tật mang" (STT 062)
+* "khi website bị lỗi code gọi cầu cứu thì... ú ớ có biết khỉ gì đâu" (STT 062)
+* "họ cũng đang bán cùng ngành với mình" (STT 026)
+* "dính phốt Nina rồi... hơi rén" (STT 046)
