@@ -170,90 +170,93 @@ Title: Những Điều Bạn Thường Thắc Mắc (FAQ)
 
 Q1: "Hệ Thống Website Cuối Cùng" này khác gì một "Trang Web" thông thường?  
 A1:  
-Đây là sự khác biệt cốt lõi. Hầu hết mọi người thất bại vì họ xây một "Trang Web" — giống như một cửa hàng đẹp nhưng trống rỗng và không có người bán hàng.  
+Đây là sự khác biệt cốt lõi. Hầu hết mọi người thất bại vì họ xây một "Trang Web"—giống như một cửa hàng đẹp nhưng trống rỗng và không có người bán hàng.
 
-"Hệ Thống Website Cuối Cùng" là một cỗ máy tâm lý học thuyết phục.  
-Nó không được thiết kế để hiển thị thông tin. Nó được kiến trúc để thay đổi niềm tin của khách hàng, phá vỡ sự hoài nghi cố hữu (Khoảnh khắc sự thật số 0 - ZMOT) và dẫn dắt họ đến một quyết định mua hàng duy nhất một cách tự động.  
+"Hệ Thống Website Cuối Cùng" là một cỗ máy tâm lý học thuyết phục.
+
+Nó không được thiết kế để hiển thị thông tin. Nó được kiến trúc để thay đổi niềm tin của khách hàng, phá vỡ sự hoài nghi cố hữu (Khoảnh khắc sự thật số 0 - ZMOT) và dẫn dắt họ đến một quyết định mua hàng duy nhất một cách tự động.
 
 Nói cách khác, nó là một chuyên gia bán hàng 24/7, giúp bạn kiếm nhiều tiền với kinh doanh online trong thời gian kỷ lục, bất chấp suy thoái, khủng hoảng…
 
-Q2: Vậy chính xác tôi đang mua gì? Một khóa học, một phần mềm, hay dịch vụ tư vấn?  
+---
+
+Q2: Vậy chính xác tôi đang mua gì? Một khóa học, một phần mềm, hay dịch vụ tư vấn?
 A2:  
-Đây là sự hé lộ: Hầu hết mọi người thất bại vì họ mua tách rời.  
+Đây là sự hé lộ: Hầu hết mọi người thất bại vì họ mua tách rời.
 
-Họ mua một Khóa học và có được "Tư duy", nhưng không có công cụ để thực thi. Lý thuyết rất hay, nhưng họ không "làm" được.  
-Những người khác lại mua một Phần mềm (như eClick CRM) và mong chờ phép màu. Nhưng phần mềm chỉ là "công cụ" — nó vô dụng nếu thiếu "hệ thống tư duy" đúng đắn.  
+Họ mua một Khóa học và có được "Tư duy", nhưng không có công cụ để thực thi. Lý thuyết rất hay, nhưng họ không "làm" được.
 
-"Hệ Thống Website Cuối Cùng" là một Chương trình Triển khai (Implementation Program).  
-Chúng tôi kết hợp cả ba làm một:  
+Những người khác lại mua một Phần mềm (như eClick CRM) và mong chờ phép màu. Nhưng phần mềm chỉ là "công cụ"—nó vô dụng nếu thiếu "hệ thống tư duy" đúng đắn.
 
-- Tư duy: Khóa học về Tâm Lý Học bán hàng  
-- Công cụ: Phần mềm eClick CRM để vận hành  
-- Hướng dẫn thực hành: Cách sử dụng phần mềm để triển khai tư duy đó  
+"Hệ Thống Website Cuối Cùng" là một Chương trình Triển khai (Implementation Program). Chúng tôi kết hợp cả ba làm một:
+Nó kết hợp ba yếu tố:  
+- **Tư duy:** Khóa học Tâm Lý Học Bán Hàng (hyperlink: https://lehuutuyen.com/vls)
+- **Công cụ:** (Phần mềm eClick CRM [hyperlink: http://eclickcrm.com] để vận hành)
+- **Hướng dẫn:** Cách áp dụng tư duy bằng phần mềm  
 
 Chúng tôi không bán cho bạn "cần câu" hay "con cá". Chúng tôi chuyển giao cho bạn bản thiết kế và nhà máy sản xuất ra chúng.
 
-Q3: Kiến thức và "Hệ Thống" này đến từ đâu?  
+---
+
+Q3: Kiến thức và hệ thống này đến từ đâu?  
 A3:  
-Nó không đến từ lý thuyết suông. Nó được đúc kết từ thất bại — rất nhiều thất bại.  
+Nó không đến từ lý thuyết suông. Nó được đúc kết từ thất bại—rất nhiều thất bại.
 
-Nó là kết quả của việc tôi phá sản dự án đầu tiên, thất bại ê chề ở dự án thứ hai, và mất rất nhiều tiền cho những khoá học "cao siêu" vô dụng.  
-Hệ thống này được sinh ra từ một câu hỏi ám ảnh: "Tại sao khách không mua?"  
-Câu trả lời không nằm ở công cụ, mà nằm ở tâm lý học.  
+Nó là kết quả của việc tôi phá sản dự án đầu tiên, thất bại ê chề ở dự án thứ hai, và mất rất nhiều tiền cho những khoá học "cao siêu" vô dụng.
 
-Nó là sự tổng hoà kiến thức từ các bậc thầy quảng cáo kết hợp với kinh nghiệm thực chiến xương máu của cá nhân tôi — từ 5 triệu tiền quảng cáo tạo ra 101 triệu doanh thu, đến chiến dịch 1000 đơn hàng trong 120 phút.  
+Hệ thống này được sinh ra từ một câu hỏi ám ảnh: "Tại sao khách không mua?". Câu trả lời không nằm ở công cụ, mà nằm ở tâm lý học.
 
-Tôi đã đem lý thuyết áp dụng vào thế giới thực, giờ tôi đóng gói lại và chia sẻ nó cho bạn. (Bạn có thể xem toàn bộ câu chuyện của tôi tại đây)
+Nó là sự tổng hoà kiến thức từ các bậc thầy quảng cáo kết hợp với kinh nghiệm thực chiến xương máu của cá nhân tôi—từ 5 triệu tiền quảng cáo tạo ra 101 triệu doanh thu, đến chiến dịch 1000 đơn hàng trong 120 phút.
 
-Q4: Tôi không rành công nghệ và ghét bán hàng. Hệ thống này có dành cho tôi không?  
+Tôi đã đem lý thuyết áp dụng vào thế giới thực, giờ tôi đóng gói lại và chia sẻ nó cho bạn. (Bạn có thể xem toàn bộ câu chuyện của tôi tại đây [hyperlink:https://lehuutuyen.com/my-story]).
+
+---
+
+Q4: Tôi không rành công nghệ và ghét bán hàng. Hệ thống này có dành cho tôi không?
 A4:  
-Hệ thống này được thiết kế dành riêng cho bạn.  
+Hệ thống này được thiết kế dành riêng cho bạn.
 
-Nó tồn tại chính vì bạn không rành công nghệ và ghét việc phải "bán".  
-Vì một hệ thống tâm lý đúng đắn sẽ làm 90% công việc "thuyết phục" (Bước 3) trước khi khách hàng gặp bạn.  
+Nó tồn tại chính vì bạn không rành công nghệ và ghét việc phải "bán". Tại sao? Vì một hệ thống tâm lý đúng đắn sẽ làm 90% công việc "thuyết phục" (Bước 3) trước khi khách hàng gặp bạn.
 
-Bạn không cần "bán hàng". Bạn chỉ cần "chốt" những người đã được hệ thống giáo dục và lọc kỹ.  
-Toàn bộ phần công nghệ phức tạp (Phần mềm) và tâm lý học (Tư duy) đã được chúng tôi đóng gói lại cho bạn.
+Bạn không cần "bán hàng". Bạn chỉ cần "chốt" những người đã được hệ thống giáo dục và lọc kỹ. Toàn bộ phần công nghệ phức tạp (Phần mềm) và tâm lý học (Tư duy) đã được chúng tôi đóng gói lại cho bạn.
 
-Q5: Tôi có cần phải tốn rất nhiều tiền quảng cáo (Bước 2) thì hệ thống này mới hiệu quả?  
+---
+
+Q5: Tôi có cần phải tốn rất nhiều tiền quảng cáo (Bước 2) thì hệ thống này mới hiệu quả?
 A5:  
-Đây là một niềm tin sai lầm phổ biến. Bạn không "tốn tiền" quảng cáo. Bạn đang "mua khách hàng với giá chiết khấu".  
+Đây là một niềm tin sai lầm phổ biến. Bạn không "tốn tiền" quảng cáo. Bạn đang "mua khách hàng với giá chiết khấu".
 
-Hệ thống Website Cuối Cùng (Bước 1) chính là cỗ máy biến 1 đồng quảng cáo (Bước 2) thành 5, 8, hay 10 đồng doanh thu.  
-Nếu không có "Hệ Thống" ở Bước 1, mọi đồng quảng cáo đều là chi phí.  
-Nếu có nó, quảng cáo là khoản đầu tư sinh lời cao nhất mà bạn có thể thực hiện.
+Hệ thống Website Cuối Cùng (Bước 1) chính là cỗ máy biến 1 đồng quảng cáo (Bước 2) thành 5, 8, hay 10 đồng doanh thu.
 
-Q6: Bước 3 "Thuyết Phục Khách" có phải là tôi phải học cách "thao túng" khách hàng không?  
+Nếu không có "Hệ Thống" ở Bước 1, mọi đồng quảng cáo đều là chi phí. Nếu có nó, quảng cáo là khoản đầu tư sinh lời cao nhất mà bạn có thể thực hiện.
+
+---
+
+Q6: Bước 3 "Thuyết Phục Khách" có phải là tôi phải học cách "thao túng" khách hàng không?
 A6:  
-Hoàn toàn ngược lại. "Thao túng" là khi bạn cố gắng ép bán một sản phẩm yếu kém.  
+Hoàn toàn ngược lại. "Thao túng" là khi bạn cố gắng ép bán một sản phẩm yếu kém.
 
-"Thuyết Phục" (Bước 3) là khi bạn xây dựng một Lời Chào Hàng (Offer) giá trị lớn đến mức nó tự bán chính nó.  
-Chúng tôi gọi đây là "Chiến Lược Bố Già": một lời đề nghị tốt đến mức khách hàng cảm thấy ngu ngốc nếu từ chối.  
+"Thuyết Phục" (Bước 3) là khi bạn xây dựng một Lời Chào Hàng (Offer) giá trị lớn đến mức nó tự bán chính nó. Chúng tôi gọi đây là "Chiến Lược Bố Già": một lời đề nghị tốt đến mức khách hàng cảm thấy ngu ngốc nếu từ chối.
 
-Bạn không cần ép ai cả; giá trị của bạn đã làm điều đó.  
-Xem thêm "Lời Chào Hàng Bố Già"
+Bạn không cần ép ai cả; giá trị của bạn đã làm điều đó. Xem thêm "Lời Chào Hàng Bố Già" [hyperlink: https://lehuutuyen.com/Godfather-Offer]
 
-Q7: Tôi đã từng thất vọng (hoặc bị lừa) bởi các agency làm web. Tại sao lần này lại khác?  
+---
+
+Q7: Tôi đã từng thất vọng (hoặc bị lừa) bởi các agency làm web. Tại sao lần này lại khác?
 A7:  
-Vì các agency bán cho bạn một "Trang Web" (Cái bẫy số 1).  
+Vì các agency bán cho bạn một "Trang Web" (CÁI BẪY SỐ 1).
 
-Họ tập trung vào thiết kế và tính năng.  
-"Hệ Thống Website Cuối Cùng" tập trung vào một thứ duy nhất: Tâm Lý Mua Hàng.  
-Nó không được xây dựng để trông đẹp, nó được kiến trúc để bán hàng.  
+Họ tập trung vào thiết kế và tính năng. "Hệ Thống Website Cuối Cùng" tập trung vào một thứ duy nhất: Tâm Lý Mua Hàng. Nó không được xây dựng để trông đẹp, nó được kiến trúc để bán hàng.
 
-Sự thất vọng của bạn là có thật, và nó xảy ra vì bạn đã bị bán nhầm công cụ.  
-Đây là một tài sản kinh doanh, không phải là một chi phí thiết kế.
+Sự thất vọng của bạn là có thật, và nó xảy ra vì bạn đã bị bán nhầm công cụ. Đây là một tài sản kinh doanh, không phải là một chi phí thiết kế.
 
-Q8: Tôi rất bận. Sẽ mất bao lâu để tôi thực sự "sở hữu" và vận hành được hệ thống này?  
+---
+
+Q8: Tôi rất bận. Sẽ mất bao lâu để tôi thực sự "sở hữu" và vận hành được hệ thống này?
 A8:  
-Bạn sẽ không thấy kết quả trong 24 giờ.  
-Nhưng bạn sẽ thiết lập xong "nền móng" (Bước 1) nhanh hơn bạn nghĩ, vì chúng tôi không bắt bạn học code hay trở thành chuyên gia tâm lý.  
+Bạn sẽ không thấy kết quả trong 24 giờ. Nhưng bạn sẽ thiết lập xong "nền móng" (Bước 1) nhanh hơn bạn nghĩ, vì chúng tôi không bắt bạn học code hay trở thành chuyên gia tâm lý.
 
-Chúng tôi đưa bạn một hệ thống tâm lý đã được chứng minh (Tư duy + Hướng dẫn + Công cụ).  
-Công việc của bạn không phải là "xây", mà là "lắp ráp" các khối tâm lý đã được đóng gói sẵn.  
-
-Bạn bận rộn vì bạn đang làm việc trong doanh nghiệp.  
-Hệ thống này giải phóng bạn để làm việc cho doanh nghiệp của mình.
+Chúng tôi đưa bạn một hệ thống tâm lý đã được chứng minh (Tư duy + Hướng dẫn + Công cụ). Công việc của bạn không phải là "xây", mà là "lắp ráp" các khối tâm lý đã được đóng gói sẵn.
 
 
 ---
