@@ -228,7 +228,7 @@ Vào khoảnh khắc thành công tại BKE, tôi đã khám phá ra thứ gọi
 
 Thành công với BKE không phải là may mắn. Nó chỉ là điểm khởi đầu, là bằng chứng đầu tiên cho thấy "Bí Mật Website Cuối Cùng" mà tôi khám phá là có thật.
 
-Hiểu được công thức cốt lõi: Website (dẫn dắt tâm lý) + Ads = Đơn Hàng, tôi bắt đầu áp dụng nó vào những thử thách lớn hơn.
+Hiểu được công thức cốt lõi: **Website (dẫn dắt tâm lý) + Ads = Đơn Hàng**, tôi bắt đầu áp dụng nó vào những thử thách lớn hơn.
 
 Công thức này nhanh chóng được kiểm chứng lần nữa với Sakos, một thương hiệu vali balo cao cấp.
 
