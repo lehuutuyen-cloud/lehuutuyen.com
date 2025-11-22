@@ -142,9 +142,13 @@ Bởi vì sự thật nằm ở ngay đây, và khi bạn nhìn vào bức ảnh
 > (Đây là nơi chèn hình ảnh "Công Thức Thị Trường Lớn.jpg" vào bài viết)  
 
 > Trích dẫn nội dung hình ảnh:
+
 > Tam giác được chia thành 4 phần 'phần trên đỉnh tam giác ghi: 3% MUA NGAY';
+
 > 'phần thứ hai từ đỉnh tam giác xuống ghi: 17% ĐANG CÂN NHẮC';
+
 > 'phần thứ ba từ đỉnh tam giác xuống ghi: 20% NHẬN THỨC VẤN ĐỀ';
+
 > 'phần cuối từ đỉnh tam giác xuống ghi: 60% KHÔNG NHẬN THỨC ĐƯỢC VẤN ĐỀ';
 
 Bạn thấy không?
