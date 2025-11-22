@@ -19,7 +19,10 @@
 
 # Bí Mật "Website Cuối Cùng" | Hành Trình Web Nghìn Đơn
 
-Sub-headline: “Một trong những cách kiếm tiền nhiều nhất, nhanh nhất với ít nỗ lực nhất trên Internet…
+> Sub-headline: 
+
+“Một trong những cách kiếm tiền nhiều nhất, nhanh nhất với ít nỗ lực nhất trên Internet…
+
 ...là khi người làm kinh doanh ứng dụng các Nguyên Tắc Tâm Lý MUA HÀNG vào HỆ THỐNG WEBSITE để bán sản phẩm của mình!"
 
 > CTA chính
