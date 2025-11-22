@@ -9,7 +9,7 @@
 SECTION: HEAD
 
 # Bạn Đang Kinh Doanh Gì? (Câu Trả Lời Sẽ Quyết Định Bạn Giàu Hay Nghèo)
-"...Và làm thế nào tôi phát hiện ra một 'khoản đầu tư' với 897% ROI, thứ khiến Warren Buffett cũng phải ghen tị."
+**Sub:** "...Và làm thế nào tôi phát hiện ra một 'khoản đầu tư' với 897% ROI, thứ khiến Warren Buffett cũng phải ghen tị."
 
 ---
 SECTION: LEAD
