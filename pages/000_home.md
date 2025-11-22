@@ -71,8 +71,7 @@ Chạy quảng cáo để tiếp cận nguồn traffic lạnh dồi dào (Facebo
 #### CTA tổng
 
 [Xem "Hành Trình Web Nghìn Đơn"](https://lehuutuyen.com/my-story)
-
-Sự Thật Có Thể Gây Sốc...  
+> _Sự Thật Có Thể Gây Sốc..._
 
 ---
 > SECTION: TẠI SAO WEBSITE CUỐI CÙNG
