@@ -117,6 +117,7 @@ Bạn trả tiền cho **một bộ Vest may đo** (theo lời họ quảng cáo
 ---
 
 > (Đoạn 5: Chuyển đổi & Tease câu hỏi quan trọng)
+
 Nếu bạn tiếp tục giao phó "bộ não" doanh nghiệp của mình cho những người thợ code – những người chỉ biết bán "búa" và nhìn đâu cũng thấy "đinh" – bạn sẽ mãi mãi là người nộp thuế.
 
 Đã đến lúc chấm dứt việc nộp thuế.  
@@ -134,6 +135,7 @@ Những sự thật mà không một Agency nào dám tiết lộ với bạn...
 ## 3 SỰ THẬT TÀN NHẪN
 
 ### Sự Thật #1: Bạn Đang Mắc Phải "Hội Chứng Đẹp Mã"
+
 Hãy thú thật với tôi.
 
 Khi nghĩ đến việc làm website, điều đầu tiên xuất hiện trong đầu bạn là gì?  
@@ -236,6 +238,7 @@ Bạn cần hệ thống **phù hợp nhất**.
 ## SỰ GIẢI THOÁT
 
 ### Sai Lầm Số 4: Bạn Đang Chơi Canh Bạc "Thử Sai"
+
 "Thử sai" là chiến lược NGU NHẤT khi xây nền tảng kinh doanh.
 
 Giá bạn đã trả:
@@ -256,6 +259,7 @@ Không có Agency “tốt hơn”.
 ---
 
 ### Lối Thoát Duy Nhất: Tư Duy "Sở Hữu" Của Elon Musk
+
 Làm sao chấm dứt Thuế Ngu?
 
 **LÀM CHỦ.**
@@ -271,6 +275,7 @@ Vì **không chấp nhận phụ thuộc**.
 ---
 
 ### Bạn cũng cần tinh thần đó.
+
 Không phải học code.  
 Bạn chỉ cần **làm chủ bản vẽ & chìa khóa hệ thống**.
 
@@ -311,6 +316,7 @@ Trong khóa học 30 phút, bạn sẽ:
 ---
 
 ### **P.S:** 
+
 Đừng để "Hội Chứng Đẹp Mã" lừa bạn.  
 Website đẹp nhưng bạn không kiểm soát được = **Tiêu Sản**.  
 Hệ thống đơn giản nhưng bạn làm chủ = **Tài Sản**.  
