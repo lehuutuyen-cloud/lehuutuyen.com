@@ -69,7 +69,7 @@ Tôi tin mọi thứ đều ổn.
 
 Ngoại trừ...
 
-**KHÔNG AI MUA SẢN PHẨM CỦA TÔI!!**
+KHÔNG AI MUA SẢN PHẨM CỦA TÔI!!
 
 ---
 
@@ -100,36 +100,226 @@ Tôi tự hỏi:
 
 ## Câu Hỏi Khiến Tôi Mất Ngủ Cả Đêm...
 
-Tôi không nhớ chính xác hôm đó là ngày nào. Chỉ nhớ là trời mưa.
+Tôi không nhớ chính xác hôm đó là ngày nào. Chỉ nhớ là trời mưa
 
-Trước mắt tôi là website – đứa con tinh thần mà tôi từng đặt hết niềm tin, tiền bạc và cả lòng tự tôn.
+Trước mắt tôi là website – đứa con tinh thần mà tôi từng đặt hết niềm tin, tiền bạc và cả lòng tự tôn
 
-Tôi kéo xuống từng dòng chữ. Xem đi xem lại từng banner, từng nút bấm, từng form đặt hàng.
+Tôi kéo xuống từng dòng chữ. Xem đi xem lại từng banner, từng nút bấm, từng form đặt hàng
 
 Tôi bật Google Analytics. Người vào có, nhưng rời đi chỉ sau vài giây.
 
 Tôi cố hiểu xem, tại sao khách không mua?
 
-Và bất chợt, trong đầu tôi vang lên một câu hỏi ám ảnh:
+Và bất chợt, trong đầu tôi vang lên một câu hỏi ám ảnh, khiến tôi mất ngủ: “Họ đang nghĩ gì khi vào đây? Họ thấy gì, cảm gì, sợ gì?”
 
-**“Họ đang nghĩ gì khi vào đây? Họ thấy gì, cảm gì, sợ gì?”**
+Khoảnh khắc đó, như có tia sét chạy dọc sống lưng. Tôi hiểu ra rằng: Website không bán hàng. TÂM LÝ HỌC mới bán hàng
 
-Khoảnh khắc đó, như có tia sét chạy dọc sống lưng. Tôi hiểu ra rằng:  
-**Website không bán hàng. TÂM LÝ HỌC mới bán hàng.**
+Chất lượng sản phẩm không phải vấn đề — vì khách hàng phải mua, phải dùng rồi mới biết được.
+
+Thương hiệu, giá cả càng không phải — vì rẻ đến mấy, người ta vẫn lướt qua như chưa từng thấy.
+
+Tất cả vấn đề phải nằm ở nội dung trên website - nó phải thấu hiểu TÂM LÝ KHÁCH.
+
+Vì nó là thứ đầu tiên khách chạm vào, và cũng là thứ quyết định xem họ có xuống tiền hay không.
 
 Tôi dần nhận ra, một website có nội dung TỆ, dù giao diện đẹp đến mấy, nó sẽ đốt tiền quảng cáo và đẩy doanh số xuống vực thẳm.
 
 Còn một website TỐT, có nội dung thuyết phục khách. Nó sẽ khiến ta nghẹt thở trong đơn hàng!
 
-…
+Và từ giây phút đó, tôi biết mình phải làm gì.
 
-*(giữ nguyên toàn bộ nội dung tiếp theo)*
+Tôi bắt đầu học… điên cuồng!
+Đọc mọi cuốn sách mà tôi chạm vào: tâm lý học hành vi, NLP, storytelling, nghệ thuật thuyết phục...
+
+Nếu ai đó nói có "bí mật bán hàng" ở bất cứ đâu - tôi sẽ thử.
+
+Nếu ai đó tuyên bố đã tìm ra "công thức chuyển đổi" - dù là ở nửa kia của trái đất, tôi cũng tìm cách học.
+
+Tôi như người say. Mỗi kiến thức là một viên gạch. Mỗi đêm thức là một nhát cuốc đào sâu vào tâm trí con người.
+
+Như câu nói: "Mọi con đường đều dẫn đến cảm xúc con người".
+
+Rồi cái gì đến cũng phải đến...
+
+Tư duy về 'Hành trình khách hàng' và ứng dụng 'Tâm lý học' vào việc xây dựng website bán hàng, nó đến với tôi một cách rất tự nhiên.
+
+Lúc đó tôi còn chẳng biết gọi nó là cái gì. Tôi chỉ đang làm những điều mà tôi tin rằng... sẽ khiến người khác muốn mua.
+
+Tôi cũng không biết việc ứng dụng tâm lý học vào viết nội dung trên website còn có một cái tên... nó được gọi là "Copywriting".
+
+Hiểu nôm na thì Copywriting là nghệ thuật sử dụng ngôn từ để thuyết phục người đọc hành động.
+
+Là phân tích xem khách hàng đang ở trạng thái cảm xúc nào khi họ vào website — họ nhìn thấy gì đầu tiên, họ ngập ngừng ở đâu, và điều gì khiến họ muốn bấm nút tiếp theo.
+
+Mỗi dòng chữ, mỗi nút bấm, mỗi hình ảnh đều được sắp xếp theo đúng dòng chảy tâm lý đó — để dẫn họ đi hết hành trình, từ tò mò… đến hành động.
+
+---
+
+## Nổ Đơn... Khi Website và Tâm Lý Học Kết Hợp
+
+Có lẽ vô thức cảm nhận ra điều bất thường...
+
+Cơ hội đầu tiên để tôi thực sự kiểm chứng "khám phá" của mình đến từ BKE - Bách Khoa Education (của thầy Trần Việt Quân).
+
+Anh Tùng, CEO của BKE, đã tin tưởng và cho tôi cơ hội thử nghiệm phương pháp mới này. Văn phòng BKE khi đó ở 299/3 Lý Thường Kiệt.
+
+Tôi nhớ những ngày cùng cô trợ lý tên Huyền miệt mài sửa nội dung web. Mục tiêu không phải chỉ làm đẹp. Mà là dẫn dắt tâm lý khách hàng theo đúng hành trình cảm xúc tôi đã học được.
+
+Chúng tôi không thay đổi sản phẩm, không giảm giá. Chúng tôi chỉ thay đổi cách trang web nói chuyện với khách hàng.
+
+Rồi ngày chạy quảng cáo cũng đến. Chỉ với 5 triệu đồng ngân sách thử nghiệm.
+
+Tôi hồi hộp. Liệu những lý thuyết tâm lý học từ "phía bên kia đại dương" có thực sự hiệu quả? Hay lại là một ảo mộng nữa?
+
+Một ngày... hai ngày... vài đơn hàng lẻ tẻ. Tim tôi bắt đầu thắt lại. "Chẳng lẽ lại sai?"
+
+Rồi chuyện đó xảy ra...
+
+Tôi không nhớ chính xác là ngày thứ mấy. Chỉ nhớ hôm đó, Huyền hét lên từ bàn làm việc của cô ấy:
+
+"Anh Tuyến ơi! ANH TUYẾN ƠI!!!"
+
+Tôi lao đến. Mắt cô ấy mở to, tay chỉ vào màn hình dashboard.
+
+Đợi đã?? Cái gì đây??
+
+Những con số nhảy múa điên cuồng. Đơn hàng liên tục đổ về
+
+Anh Tùng chạy tới, sững sờ nhìn màn hình rồi lắp bắp hỏi tôi: "Cái... cái quái gì đang xảy ra vậy Tuyến?"
+
+14 ngày sau chiến dịch kết thúc. Kết quả?
+
+Từ 5 triệu tiền quảng cáo... thu về 101 triệu đồng doanh thu.
+
+Chỉ từ MỘT trang web được thiết kế lại theo TÂM LÝ HỌC???
+
+Đến tận bây giờ, tôi vẫn chưa thể quên được khoảnh khắc vỡ òa đó tại văn phòng BKE. Bởi tôi cảm thấy đây chắc chắn là dấu hiệu của một thứ gì đó LỚN LAO hơn...
+
+Tôi bắt đầu thầm nghĩ:
+> Điều gì sẽ xảy ra nếu tôi áp dụng công thức Website + Tâm lý học này vào các dự án khác?
+> Nếu tôi dùng nó để bán các sản phẩm giá trị cao hơn thì sao?
+> Nếu tôi dạy lại điều này cho những người kinh doanh khác, liệu họ có đạt được kết quả tương tự?
+
+---
+
+## Bí Mật Website Cuối Cùng
+
+Cách thức bán hàng tại BKE năm đó giờ đã là nền tảng cho hàng loạt thành công sau này của tôi và khách hàng.
+
+Kể từ đó tôi sớm phát hiện ra sự thật => Một Website được xây dựng dựa trên Tâm Lý Học có thể vực dậy tất cả!
+
+Công thức kinh điển của tôi trở nên rõ ràng:
+> Kiến tạo một Website dẫn dắt tâm lý khách hàng (Không phải là giao diện đẹp, mà là một hành trình cảm xúc được thiết kế tỉ mỉ).
+> Đổ traffic chất lượng vào đó bằng Ads.
+
+Chỉ thế mà thôi!
+
+Nghe thì đơn giản, nhưng đó là NÓ!
+
+Mọi người nghĩ để bán được nhiều hàng thì phải phức tạp và to lớn như chiến dịch marketing đa kênh hay cái gì đó vĩ mô.
+
+Nếu biết cái gì phức tạp mà có thể đem đến thành công tôi cũng sẽ chỉ cho bạn. Nhưng tôi **KHÔNG BIẾT!**
+
+Vào khoảnh khắc thành công tại BKE, tôi đã khám phá ra thứ gọi là "Bí Mật Website Cuối Cùng".
+
+---
+
+## 'Case Study' Đời Thực: Khi Công Thức Được Nhân Rộng
+
+Thành công với BKE không phải là may mắn. Nó chỉ là điểm khởi đầu, là bằng chứng đầu tiên cho thấy "Bí Mật Website Cuối Cùng" mà tôi khám phá là có thật.
+
+Hiểu được công thức cốt lõi: Website (dẫn dắt tâm lý) + Ads = Đơn Hàng, tôi bắt đầu áp dụng nó vào những thử thách lớn hơn.
+
+Công thức này nhanh chóng được kiểm chứng lần nữa với Sakos, một thương hiệu vali balo cao cấp.
+
+Một chiến dịch Flash Sale được dựng lên, tâm điểm là trang web dẫn dắt tâm lý khách.
+
+Kết quả? **Hơn 1000 đơn hàng đổ về, mang lại doanh thu hơn 2 tỷ đồng chỉ trong vòng 120 phút cao điểm!**
+
+> VIDEO: Case Study "Sakos" Ngày 25/01/2018
+
+Rồi đến Moriitalia, đồ gia dụng cao cấp. Vẫn là công thức đó: Website dẫn dắt tâm lý + Ads.
+
+Lần này là **1,363 tỷ đồng doanh thu trong 30 ngày.**  
+(Dưới đây là video từ trang quản lý đơn hàng của website Moriitalia).
+
+> VIDEO: Case Study "Moriitalia"
+
+Thậm chí, chiến dịch Moriitalia còn 'nổ đơn' đến mức đội ngũ phải nhắn tin 'cầu cứu' vì xử lý không xuể!
+
+> HÌNH ẢNH: Tin nhắn zalo  
+> "Hữu Tuyến, anh sắp xếp tuyển nhân viên hỗ trợ admin xử lý đơn hàng trên web online. Tụi em đang quá tải, nếu anh chạy chương trình dồn dập là tụi em sập ko làm nổi, em tuyển người dưới này ko có ai hết"
+
+Điều thú vị là, tất cả các dự án, không có sản phẩm nào mới. Không có quảng cáo nào “hack não”.
+
+Chỉ có một website được dẫn dắt bằng tâm lý học — khiến khách hàng muốn hành động.
+
+---
+
+## Một Lời Tuyên Bố Độc Quyền
+
+Tôi là Lê Hữu Tuyến – một người đã tìm thấy "lối tắt" nhờ thấu hiểu tâm lý học ứng dụng trên website, mà khi mới bắt đầu, tôi đã hoàn toàn:
+> Không có kiến thức về marketing online bài bản  
+> Không có kinh nghiệm xây dựng hệ thống bán hàng tự động  
+> Không có nhiều tiền để đốt vào những thử nghiệm vô vọng  
+> Không có nhiều thời gian vì còn phải vật lộn với những dự án khác  
+> Và đôi khi, không thực sự biết mình đang làm gì!
+
+Nếu một kỹ sư cầu đường chuyên về logic như tôi, người từng thất bại ê chề vì không hiểu tâm lý khách hàng, có thể tìm ra con đường này và tạo ra những kết quả đột phá...
+
+...thì **bạn hoàn toàn có thể!!**
+
+---
+
+## Và Đó Là Lý Do Tôi Tạo Ra...
+
+Dần dần, tôi nhận ra vấn đề cốt lõi: Doanh nghiệp không thua vì thiếu công cụ. Họ thua vì website của họ không nói được ngôn ngữ thuyết phục khách.
+
+Nhiều người tìm đến, họ cần một giải pháp, một lối thoát...
+
+Bởi chính tôi cũng từng đi thuê công ty làm web. Tôi biết cảm giác bất lực khi mỗi lần muốn chỉnh sửa một dòng chữ cũng phải chờ đợi và cầu xin.
+
+Vì vậy, tôi quyết định không giữ bí mật này cho riêng mình nữa. Tôi đã đóng gói toàn bộ công thức đó thành một "Hệ Thống Website Cuối Cùng".
+
+Nó không chỉ là kỹ thuật, mà là một bản đồ tâm lý giúp bạn xây dựng hành trình khách hàng một cách có chủ đích. Khi website biết "dẫn dắt" tâm lý, doanh thu tự khắc biết nói ngôn ngữ của tiền.
+
+---
+
+## Sự Nhìn Nhận...
+
+Nếu bạn đã đọc đến đây...
+
+Hãy thử nhớ lại — lần cuối cùng bạn đọc hết một câu chuyện về website bán hàng là khi nào?
+
+Có thể là… chưa bao giờ.
+
+Vì sao? Vì hầu hết chỉ nói về “tính năng”, “ưu điểm”, “giá rẻ”... Họ quên mất con người đứng sau những cú click.
+
+Trong kỷ nguyên này, tài sản quý nhất không phải traffic.
+
+Mà là **Sự chú ý. Chính NÓ!**
+
+Muốn có Sự chú ý, bạn cần hiểu não người vận hành thế nào.
+
+Bạn cần biết cách mở vòng lặp cảm xúc (Open Loop), biết khi nào khách chưa tin, và khi nào họ sẵn sàng hành động.
+
+Tuy nhiên giờ mới đến phần hay ho nhất…
 
 ---
 
 ## Điều Gì Tiếp Theo...
 
 Đã đến cuối cuộc hành trình, chắc bạn cũng đoán ra, trang này sẽ dẫn đến một khóa học, chỉ có điều nó **MIỄN PHÍ!**
+
+Đừng để hai từ MIỄN PHÍ đánh lừa. Khoá học ngắn chỉ hơn 30 phút này có thể thay đổi hoàn toàn cách bạn nhìn về website và hệ thống bán hàng của mình.
+
+Tôi sẽ không giữ lại bí mật nào cả.
+
+Tôi sẽ cho bạn xem tấm bản đồ "Hệ Thống Website Bán Hàng" độc quyền – cách các dòng cảm xúc, hành động và tự động hóa được kết nối thành một cỗ máy tạo doanh thu.
+
+Bạn sẽ hiểu rõ vì sao chỉ cần 5 triệu quảng cáo lại có thể tạo ra 101 triệu doanh thu. Tất cả nằm ở cách bạn dẫn dắt tâm lý trên website.
+
+Cuối cùng, bạn cần xem sớm, trước khi tôi quyết định thu một khoản phí tương xứng.
 
 > Đừng tin tôi nói. Hãy tự mình trải nghiệm.
 
