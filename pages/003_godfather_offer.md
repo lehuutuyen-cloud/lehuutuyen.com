@@ -6,14 +6,14 @@
 - **GEM:** [GEMINI](https://gemini.google.com/gem/90e12b961eac/e512ae484ed4b761)
 ---
 
-SECTION: HEAD
+> SECTION: HEAD
 
 # Lời "Thao Túng" Bị Hiểu Sai Nhiều Nhất Trong Lịch Sử
 **Sub:** (Và "Lối Tắt Của Người Giàu" Sẽ Khiến Bạn Phát Cáu... Vì Đã Không Biết Nó Sớm Hơn)
 
 ---
 
-SECTION: LEAD 
+> SECTION: LEAD 
 
 5 năm về trước, tôi xem lại bộ phim kinh điển “The Godfather”(Bố Già) năm 1972.
 
@@ -65,7 +65,7 @@ Biến số đầu tiên — và là biến số 99% mọi người làm sai— 
 
 ---
 
-SECTION: BODY 
+> SECTION: BODY 
 
 Biến số đầu tiên — và là biến số 99% mọi người làm sai— chính là...
 
@@ -156,13 +156,15 @@ Nhưng Bố Già (hay Russell Brunson, Alex Hormozi....) không "bán" sản ph�
 Họ "xếp chồng" các giá trị lại với nhau (như hình dưới đây)
 
 > HÌNH ẢNH: và trích dẫn trong đó  
+
 ► ĐÂY TẤT CẢ LÀ NHỮNG GÌ BẠN NHẬN ĐƯỢC...  
 ► Sản Phẩm A (Trị giá 10đ)  
 ► Quà tặng 1 - Giúp giải quyết nỗi đau X (Trị giá 8đ)  
 ► Quà tặng 2 - Giúp giải quyết nỗi đau Y (Trị giá 5đ)  
 ► Quà tặng 3 - Giúp giải quyết nỗi đau Z (Trị giá 6đ)  
-> TỔNG GIÁ TRỊ BẠN NHẬN ĐƯỢC: 29đ  
-> ...NHƯNG HÔM NAY CHỈ CÒN: 10đ.  
+### TỔNG GIÁ TRỊ BẠN NHẬN ĐƯỢC: 29đ  
+### ...NHƯNG HÔM NAY CHỈ CÒN: 10đ.  
+
 > (kết thúc hình ảnh)
 
 Bạn thấy không?
