@@ -3,9 +3,9 @@
 - **TYPE:** homepage
 - **LAST_UPDATED:** 2025-11-09
 - **TAGS:** homepage, offer, ads
----
 
-## MENU
+---
+> MENU
 - Về tôi -> /about
 - Câu chuyện -> /my-story
 - Khoá học -> /khoa-hoc
