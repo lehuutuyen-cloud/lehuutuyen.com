@@ -31,6 +31,7 @@ _Cảm giác lúc đó thật sự bất lực._
 Thấy mình **ngu công nghệ**, luôn phải phụ thuộc vào người khác...”_
 
 Rồi anh dừng lại một chút. Giọng nhỏ xuống:  
+
 _“Nhưng từ khi học làm website theo tâm lý học, và sử dụng eClick. Mọi thứ đã khác._
 
 _Nhờ cái website được thiết kế tốt, nên việc làm ăn của tôi phát triển như ý._
