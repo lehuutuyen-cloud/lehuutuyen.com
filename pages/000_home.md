@@ -24,13 +24,13 @@ Sub-headline: “Một trong những cách kiếm tiền nhiều nhất, nhanh n
 
 > CTA chính
 
-### [CTA1: Xem "Hành Trình Web Nghìn Đơn"](https://lehuutuyen.com/my-story)
+[CTA: Xem "Hành Trình Web Nghìn Đơn"](https://lehuutuyen.com/my-story)
 
 Sub: Sự Thật Có Thể Gây Sốc...  
 
 > CTA phụ
 
-### [Hoặc tìm hiểu thêm về Lê Hữu Tuyến](https://lehuutuyen.com/about)
+[Hoặc tìm hiểu thêm về Lê Hữu Tuyến](https://lehuutuyen.com/about)
 
 > **VIDEO PLAYER**  
 >- Script video link: /home-vls
