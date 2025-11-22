@@ -162,8 +162,8 @@ Họ "xếp chồng" các giá trị lại với nhau (như hình dưới đây)
 ► Quà tặng 1 - Giúp giải quyết nỗi đau X (Trị giá 8đ)  
 ► Quà tặng 2 - Giúp giải quyết nỗi đau Y (Trị giá 5đ)  
 ► Quà tặng 3 - Giúp giải quyết nỗi đau Z (Trị giá 6đ)  
-### TỔNG GIÁ TRỊ BẠN NHẬN ĐƯỢC: 29đ  
-### ...NHƯNG HÔM NAY CHỈ CÒN: 10đ.  
+**TỔNG GIÁ TRỊ BẠN NHẬN ĐƯỢC: 29đ**
+**...NHƯNG HÔM NAY CHỈ CÒN: 10đ**
 
 > (kết thúc hình ảnh)
 
