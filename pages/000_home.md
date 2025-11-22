@@ -86,8 +86,8 @@ Nó là "đội quân bán hàng ảo 10.000 người", tự động làm việc
 
 Bạn chỉ cần thiết lập "Hệ Thống Thuyết Phục" một lần duy nhất, và kiếm tiền từ nó nhiều lần.
 
-### Quote
-"Mọi thứ bạn bán, từ sản phẩm vật lý đến dịch vụ phức tạp, đều là một "phương tiện" để đưa khách hàng từ trạng thái hiện tại đến trạng thái họ khao khát." — Lê Hữu Tuyến
+> Quote
+_"Mọi thứ bạn bán, từ sản phẩm vật lý đến dịch vụ phức tạp, đều là một "phương tiện" để đưa khách hàng từ trạng thái hiện tại đến trạng thái họ khao khát." — Lê Hữu Tuyến_
 
 **CTA:**  
 Bắt Đầu Ngay  
