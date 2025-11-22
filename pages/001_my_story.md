@@ -14,7 +14,7 @@
 
 ## Mồi Lửa Đầu Tiên…
 
-2013. Thời kỳ vàng của kinh doanh online.
+'2013. Thời kỳ vàng của kinh doanh online.
 
 Tôi cũng như bao người khác, lao vào thương trường — bán đồ 2nd: quần áo, giày dép, phụ kiện.
 
