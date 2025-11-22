@@ -9,7 +9,7 @@
 SECTION: HEAD
 
 # Lời "Thao Túng" Bị Hiểu Sai Nhiều Nhất Trong Lịch Sử
-(Và "Lối Tắt Của Người Giàu" Sẽ Khiến Bạn Phát Cáu... Vì Đã Không Biết Nó Sớm Hơn)
+**Sub:** (Và "Lối Tắt Của Người Giàu" Sẽ Khiến Bạn Phát Cáu... Vì Đã Không Biết Nó Sớm Hơn)
 
 ---
 
