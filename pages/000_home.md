@@ -56,20 +56,20 @@ _(Nhiều logo thương hiệu được hiển thị — không có đoạn mô 
 
 ---
 
-## Bước 1: Website Cuối Cùng
+### Bước 1: Website Cuối Cùng
 Hãy quên đi kiểu thiết kế website 'tính năng' rao đầy rẫy ở ngoài kia. Đây là phương pháp xây dựng website theo tâm lý mua hàng. Để Tự Động Hoá Bán Hàng NGAY lập tức.  
 **CTA:** _Xem thêm_
 
-## Bước 2: Chạy Quảng Cáo
+### Bước 2: Chạy Quảng Cáo
 Chạy quảng cáo để tiếp cận nguồn traffic lạnh dồi dào (Facebook Ads, Google Ads, Tiktok Ads...) và dẫn họ vào trang web đã được thiết kế tâm lý ở Bước 1.  
 **CTA:** _Xem thêm_
 
-## Bước 3: Thuyết Phục Khách
+### Bước 3: Thuyết Phục Khách
 Đây chính là CON ĐƯỜNG TẮT của những người kinh doanh online thành công nhất. Bí mật này không MỚI với họ. Nhưng lại MỚI với hầu hết chúng ta!  
 **CTA:** _Xem thêm_
 
-### CTA tổng
-- Xem "Hành Trình Web Nghìn Đơn"  
+#### CTA tổng
+- [Xem "Hành Trình Web Nghìn Đơn"](https://lehuutuyen.com/my-story)
 - Sự Thật Có Thể Gây Sốc...  
 Link: https://lehuutuyen.com/my-story
 
